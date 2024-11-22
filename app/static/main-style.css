@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(27, 27, 27);
+    color: azure;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+    font-size: 110%;
+}
